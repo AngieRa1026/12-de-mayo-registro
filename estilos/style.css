@@ -80,4 +80,8 @@ button:hover {
     background-color: #74ebd5;
 }
 
-@media ()
+@media (min-width: 768px) {
+    .form-container {
+        max-width: 800px;
+    }
+}
